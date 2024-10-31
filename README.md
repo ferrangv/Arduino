@@ -21,7 +21,7 @@ Este proyecto combina tecnologías biométricas y monitoreo ambiental utilizando
 ### Instrucciones:
 1. Clona el repositorio del proyecto:
    ```bash
-   git clone https://github.com/FERRANGV/Arduino.git
+   git clone https://github.com/ferrangv/Arduino.git
    ```
 
 2. Abre el archivo `.ino` principal en el Arduino IDE.
