@@ -53,4 +53,4 @@ Temperatura: 25.5 °C
 ## **Proyectos Relacionados**
 - [Biometría y Medio Ambiente - Android](https://github.com/ferrangv/Android)
 - [Biometría y Medio Ambiente - Web](https://github.com/ferrangv/Backend)
-- - [Biometría y Medio Ambiente - Web](https://github.com/ferrangv/Frontend)
+- [Biometría y Medio Ambiente - Web](https://github.com/ferrangv/Frontend)
